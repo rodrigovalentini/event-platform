@@ -1,5 +1,5 @@
 
-Usando Vite para criar um app React JS
+# Usando Vite para criar um app React JS
 https://vitejs.dev/guide/
 
 Tailwind CSS, Post CSS e Autoprefixer
